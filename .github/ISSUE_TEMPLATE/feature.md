@@ -1,6 +1,6 @@
 ---
 name: feature
-about: 需求
+about: 产品需求
 title: '[feature] '
 labels: 'feature'
 assignees: ''
