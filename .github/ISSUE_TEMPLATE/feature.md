@@ -1,3 +1,12 @@
+---
+name: feature
+about: 需求
+title: '[feature] '
+labels: 'feature'
+assignees: ''
+
+---
+
 ### 需求描述
 
 在此描述需求的相关背景和内容

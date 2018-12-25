@@ -1,3 +1,12 @@
+---
+name: refactor
+about: 重构代码
+title: '[refactor] '
+labels: 'refactor'
+assignees: ''
+
+---
+
 ### 需求描述
 
 在此描述重构的相关内容

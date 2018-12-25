@@ -1,3 +1,12 @@
+---
+name: bug
+about: 提交bug
+title: '[bug] '
+labels: 'bug'
+assignees: ''
+
+---
+
 ### bug 描述
 
 在此描述 bug
